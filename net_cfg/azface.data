@@ -1,0 +1,8 @@
+classes=1
+#1,7,8,9
+train=D:\Datasets\FDDB\FDDB-folds\FDDB-fold-09-train.txt
+#train=D:\Datasets\dlib_face_detection_dataset-2016-09-30\dlib_face_detection_dataset\train.txt
+valid=D:\Datasets\FDDB\FDDB-folds\FDDB-fold-02-train.txt
+#valid=D:\Datasets\dlib_face_detection_dataset-2016-09-30\dlib_face_detection_dataset\val.txt
+names=net_cfg\azface.names
+backup=weights
