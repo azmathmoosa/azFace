@@ -2,6 +2,9 @@
 
 This is a tiny yolo detector trained on FDDB+Dlib dataset.  It was trained on a GTX1080 for about 82k iterations.  It runs fast at 112 fps on GTX1080 which is more than enough for realtime usage.
 
+[![Preview](http://img.youtube.com/vi/rX7AxQYrXkk/0.jpg)](https://www.youtube.com/watch?v=rX7AxQYrXkk)
+
+
 ## How To Use
 
 ### Windows
